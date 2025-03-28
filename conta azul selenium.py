@@ -133,3 +133,6 @@ try:
 finally:
     # Fechar o WebDriver
     driver.quit()
+
+TODO:
+Selenium aaprimoramentos
